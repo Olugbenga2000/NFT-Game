@@ -1,6 +1,6 @@
 # Basic Sample Hardhat Project
 
-<p>This is a decentralized application for minting NFts that are generated and stored on-chain</p><br>
+<p>This is a decentralized application for minting NFts with metadata stored on-chain m</p><br>
 <p>It was developed with hardhat</p>
 <h3>Project directory</h3>
 <p> Contracts - contains the smart contract code(MyEpicNFT.sol)</p>
